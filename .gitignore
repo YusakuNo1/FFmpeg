@@ -1,3 +1,10 @@
+build-cli/
+build-cli-macos-arm64/
+build-lib/
+output-cli-macos-arm64/
+output-cli/
+output-lib/
+
 *.a
 *.o
 *.objs
